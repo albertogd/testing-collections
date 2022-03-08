@@ -1,5 +1,5 @@
 - name: test
-  hosts: localhost
+  hosts: all
 
   roles:
     - devsec.hardening.os_hardening
