@@ -1,0 +1,5 @@
+---
+
+collections:
+- name: devsec.hardening
+  src: https://github.com/dev-sec/ansible-collection-hardening.git
